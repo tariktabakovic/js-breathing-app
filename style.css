@@ -1,11 +1,15 @@
 * {
     box-sizing: border-box;
+    
 }
 
 body {
-    background: green;
+    height: 100%;
+    background-image: url(greenbackground.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     color: #fff;
-    /* font family */
     min-height: 100vh;
     overflow: hidden;
     display: flex;
