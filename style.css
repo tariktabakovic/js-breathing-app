@@ -5,12 +5,12 @@
 
 body {
     height: 100%;
-    background-image: url(greenbackground.jpg);
+    background-image: url(cloudsbackground.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     font-family: verdana;
-    color: #fff;
+    color: black;
     min-height: 100vh;
     overflow: hidden;
     display: flex;
@@ -49,7 +49,7 @@ body {
 }
 
 .circle {
-    background-color:rgb(1, 1, 79);
+    background-color: rgb(64, 155, 220);
     height: 100%;
     width: 100%;
     position: absolute;
